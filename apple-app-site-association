@@ -1,0 +1,11 @@
+{ "applinks":
+      { "apps": [],
+        "details": [
+             { "appID": "3976U676H6.com.allegion.Sense.Dev",
+                "paths": [ "*" ] },
+             { "appID": "3976U676H6.com.allegion.Sense.Test",
+               "paths": [ "*" ]
+             }
+          ]
+       }
+}
